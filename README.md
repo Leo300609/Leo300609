@@ -5,9 +5,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Etec de Poá. S
 ## 🚀 Sobre mim
 - 🎓 Cursando ADS na Etec de Poá.
 - 📍 Moro em Suzano, SP.
-- ⛪ Cristão e membro da PIB Suzano.
 - 📚 Estudando inglês para me tornar um Dev Global.
-- 🎮 Nas horas vagas, você me encontra no **Valorant**.
 
 ## 🛠️ Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
