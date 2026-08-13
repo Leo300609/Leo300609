@@ -1,25 +1,47 @@
-# Olá, eu sou o Leonardo Almeida! 👋
+# Olá! Eu sou o Léo 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Etec de Poá. Sou apaixonado por tecnologia, games e estou construindo minha jornada no mundo do desenvolvimento de software.
+🚀 **Desenvolvedor de Software | Aprendiz no Metrô de SP | Estudante de ADS**
 
-## 🚀 Sobre mim
-- 🎓 Cursando ADS na Etec de Poá.
-- 📍 Moro em Suzano, SP.
-- 📚 Estudando inglês para me tornar um Dev Global.
-
-## 🛠️ Tecnologias e Ferramentas
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-## 📂 Projetos Recentes
-* **HDC Host:** Landing Page completa com Flexbox.
-* **Clone Instagram:** Prática de UI/UX e Responsividade.
-* **Formulários PHP:** Lógica de backend e processamento de dados.
-* **Calculadora Python:** Exercícios de lógica e tratamento de erros.
+Desenvolvedor em formação contínua, apaixonado por tecnologia, lógica e construção de soluções eficientes. Atualmente divido minha rotina entre a prática profissional no setor de transporte metroviário e a formação técnica/acadêmica em desenvolvimento de sistemas.
 
 ---
-📫 **Vamos nos conectar:**
-[Meu LinkedIn] www.linkedin.com/in/leonardo-almeida-canto-ba6538307
+
+## 🛠️ O que estou fazendo agora?
+
+* 🚆 **Aprendiz** no **Metrô de São Paulo**
+* 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** no **SENAI Conectividade (Vila Mariana)**
+* 🏫 Estudante na **ETEC de Poá**
+* 💡 Focado em aprimorar minhas habilidades em desenvolvimento backend, arquitetura de sistemas e banco de dados.
+
+---
+
+## 💻 Tecnologias & Ferramentas
+
+### **Linguagens & Web**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Banco de Dados & Formatos**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![XML](https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white)
+
+### **Ferramentas & Outros**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radial&hide_border=true" alt="Linguagens mais usadas" height="150"/>
+</div>
+
+---
+
+> *"A constante prática e a curiosidade são os melhores pilares para um bom desenvolvedor."*
