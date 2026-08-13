@@ -38,8 +38,8 @@ Desenvolvedor em formação contínua, apaixonado por tecnologia, lógica e cons
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radial&hide_border=true" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Leo300609&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo300609&layout=compact&theme=radial&hide_border=true" alt="Linguagens mais usadas" height="150"/>
 </div>
 
 ---
