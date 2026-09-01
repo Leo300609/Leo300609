@@ -48,7 +48,7 @@ Desenvolvedor em formação contínua, apaixonado por tecnologia, lógica e cons
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Leo300609&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Leo300609&theme=tokyonight" alt="Estatísticas do GitHub" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leo300609&theme=tokyonight" alt="GitHub Streak" height="165" />
 </div>
 
