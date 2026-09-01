@@ -17,8 +17,8 @@ Desenvolvedor em formação contínua, apaixonado por tecnologia, lógica e cons
 
 ## 📌 Projetos em Destaque
 
-* 🍔 **[XTEC - Sistema para Restaurantes](https://github.com/Leo300609)** - Plataforma de gestão comercial para restaurantes com controle de pedidos, dashboard operacional e gestão de mesas. *(HTML5, CSS3, JavaScript, PHP)*
-* 📚 **[EduTrack](https://github.com/Leo300609)** - Aplicação web para gerenciamento de disciplinas, rotinas de estudo e tarefas acadêmicas. *(Python, Flask, MySQL)*
+* 🍔 **[XTEC - Sistema para Restaurantes](https://github.com/Leo300609/TCC_2026_Sistema_Restaurantes)** - Plataforma de gestão comercial para restaurantes com controle de pedidos, dashboard operacional e gestão de mesas. *(HTML5, CSS3, JavaScript, PHP)*
+* 📚 **[EduTrack](https://github.com/Leo300609/task_manager)** - Aplicação web para gerenciamento de disciplinas, rotinas de estudo e tarefas acadêmicas. *(Python, Flask, MySQL)*
 
 ---
 
