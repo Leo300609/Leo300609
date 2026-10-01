@@ -17,8 +17,20 @@ Desenvolvedor em formação contínua, apaixonado por tecnologia, lógica e cons
 
 ## 📌 Projetos em Destaque
 
-* 🍔 **[XTEC - Sistema para Restaurantes](https://github.com/Leo300609/TCC_2026_Sistema_Restaurantes)** - Plataforma de gestão comercial para restaurantes com controle de pedidos, dashboard operacional e gestão de mesas. *(HTML5, CSS3, JavaScript, PHP)*
+* 🍔 **[TCC 2026 - Sistema para Restaurantes](https://github.com/Leo300609/TCC_2026_Sistema_Restaurantes)** - Plataforma de gestão comercial para restaurantes com controle de pedidos, dashboard operacional e gestão de mesas. *(HTML5, CSS3, JavaScript, PHP)*
+* 🌾 **[AgroJava](https://github.com/Leo300609/AgroJava)** - Aplicação em Java via terminal para monitoramento agrícola e alertas de irrigação de talhões. *(Java)*
 * 📚 **[EduTrack](https://github.com/Leo300609/task_manager)** - Aplicação web para gerenciamento de disciplinas, rotinas de estudo e tarefas acadêmicas. *(Python, Flask, MySQL)*
+
+---
+
+## 📌 Tarefas & Issues Recentes
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leo300609&repo=TCC_2026_Sistema_Restaurantes&theme=tokyonight" alt="Status do TCC" />
+</div>
+
+- 🟢 **[TCC_2026_Sistema_Restaurantes]** `#2` - Adjusting responsive design for all devices
+- 🟢 **[AgroJava]** `#1` - Validação de entradas no menu interativo
 
 ---
 
@@ -26,10 +38,10 @@ Desenvolvedor em formação contínua, apaixonado por tecnologia, lógica e cons
 
 ### **Linguagens & Web**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
