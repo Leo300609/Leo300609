@@ -82,8 +82,10 @@ Sistema de gerenciamento de umidade de campo, com registro de umidade e volume d
 
 <div align="center">
 
-<img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Leo300609&show_icons=true&theme=transparent&hide_border=true&title_color=7d8590&text_color=7d8590&icon_color=7d8590" />
-<img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo300609&layout=compact&theme=transparent&hide_border=true&title_color=7d8590&text_color=7d8590" />
+<img height="180" alt="Resumo do perfil" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leo300609&theme=github_dark" />
+<img height="180" alt="Linguagens mais usadas" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leo300609&theme=github_dark" />
+
+<img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=Leo300609&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
